@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Emarku/Emarku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emarku/Emarku** is a ✨ _not_special_ ✨ repository because its mine and I am not special, just a limited edition.
 
-Here are some ideas to get you started:
+Here are some info about me to get you started:
 
 - 🔭 I’m currently working on software and AI helping companies with Sustainability, Emissions and Clean_energy issues
 - 🌱 I’m currently learning building Data Science projects on .NET
